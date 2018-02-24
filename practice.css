@@ -1,0 +1,72 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image:url(../images/fest.jpeg.jpeg);
+/*    background-position: center;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-attachment: fixed;
+}
+.btn-group{
+/*    padding-left: 20px;*/
+    margin-left: 45%;
+    
+}
+.facebook_button{
+    margin-left: 35px;
+}
+.twitter_button{
+    margin-left: 35px;
+}
+.twitter{
+    width: 95px;
+}
+
+
+
+/*styles of conversion*/
+.conversion_body{
+    background-image: url(../images/calculators.jpeg);
+}
+#temp{
+    background-color: cornflowerblue;
+    border-radius: 3px;
+}
+.party{
+    color: aliceblue;
+/*    text-align: 55%;*/
+    margin-left: 130px;
+    padding-top: 10px;
+}
+h1{
+    margin-top: 150px;
+    margin-left: 30%;
+    color: chartreuse;
+    font-family:cursive;
+}
+#text{
+    margin-left: 40%;
+}
+.conversion_p{
+    text-align: center;
+    font-display: auto;
+    font-size: 30px;
+    color: aqua;
+    font-family: cursive;
+}
+#p{
+    color: burlywood;
+}
+
+/*style of signup*/
+.signup_container{
+    padding-top: 10%;
+    width: 30%;
+    color: black;
+}
+.agreement{
+    font: bold;
+}
+.signup_body{
+    background-image: url(../images/signup_party.jpeg);
+}
