@@ -1,6 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    background-image:url(../images/fest.jpeg.jpeg);
+    background-image:url(fest.jpeg.jpeg);
 /*    background-position: center;*/
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body{
 
 /*styles of conversion*/
 .conversion_body{
-    background-image: url(../images/calculators.jpeg);
+    background-image: url(calculators.jpeg);
 }
 #temp{
     background-color: cornflowerblue;
@@ -68,5 +68,5 @@ h1{
     font: bold;
 }
 .signup_body{
-    background-image: url(../images/signup_party.jpeg);
+    background-image: url(signup_party.jpeg);
 }
